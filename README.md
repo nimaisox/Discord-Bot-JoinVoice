@@ -6,5 +6,6 @@ Discord-Bot-JoinVoice 24/7
 2. python3 bot.py
 
 # Command
-leave
-join
+{perfix}leave
+
+{perfix}join
